@@ -1,0 +1,13 @@
+# GCP / cloud credentials — never commit
+*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# macOS
+.DS_Store
